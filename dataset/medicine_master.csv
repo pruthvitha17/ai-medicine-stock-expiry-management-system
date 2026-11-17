@@ -1,0 +1,102 @@
+medicine_name,category,manufacturer,minimum_stock
+Paracetamol,Tablet,ABC Pharma,20
+Ibuprofen,Tablet,XYZ Pharma,15
+Cetirizine,Tablet,HealthCare Pharma,10
+Azithromycin,Tablet,Sun Pharma,15
+Amoxicillin,Capsule,Cipla,20
+Metformin,Tablet,USV Pharma,25
+Amlodipine,Tablet,ABC Pharma,15
+Pantoprazole,Tablet,Sun Pharma,20
+Omeprazole,Capsule,Cipla,15
+Dolo 650,Tablet,Micro Labs,20
+Crocin,Tablet,GSK,15
+Combiflam,Tablet,Sanofi,10
+Allegra,Tablet,Sanofi,15
+Montelukast,Tablet,Cipla,15
+Levocetirizine,Tablet,Sun Pharma,10
+Rabeprazole,Tablet,Dr Reddys,15
+Domperidone,Tablet,ABC Pharma,10
+Ondansetron,Tablet,Sun Pharma,10
+Diclofenac,Tablet,Cipla,15
+Aceclofenac,Tablet,IPCA Pharma,15
+Atorvastatin,Tablet,Sun Pharma,20
+Rosuvastatin,Tablet,AstraZeneca,15
+Losartan,Tablet,Cipla,15
+Telmisartan,Tablet,Dr Reddys,20
+Metoprolol,Tablet,Abbott,15
+Atenolol,Tablet,ABC Pharma,15
+Clopidogrel,Tablet,Sun Pharma,10
+Aspirin,Tablet,Bayer,20
+Calcium Carbonate,Tablet,HealthCare Pharma,15
+Vitamin C,Tablet,Abbott,20
+Vitamin D3,Capsule,Sun Pharma,15
+Multivitamin,Tablet,HealthCare Pharma,20
+Iron Folic Acid,Tablet,Cipla,15
+Zinc Sulphate,Tablet,ABC Pharma,15
+B Complex,Tablet,Abbott,15
+Folic Acid,Tablet,Sun Pharma,10
+Cholecalciferol,Capsule,USV Pharma,10
+Prednisolone,Tablet,Cipla,10
+Dexamethasone,Tablet,Sun Pharma,10
+Hydroxychloroquine,Tablet,Ipca Pharma,10
+Metronidazole,Tablet,JB Pharma,15
+Cefixime,Tablet,Dr Reddys,15
+Cefuroxime,Tablet,GlaxoSmithKline,10
+Cefpodoxime,Tablet,Cipla,15
+Doxycycline,Capsule,Sun Pharma,10
+Clarithromycin,Tablet,Abbott,10
+Levofloxacin,Tablet,Sun Pharma,10
+Ciprofloxacin,Tablet,Cipla,15
+Nitrofurantoin,Capsule,Sun Pharma,10
+Fluconazole,Tablet,Pfizer,10
+Acyclovir,Tablet,Cipla,10
+Albendazole,Tablet,GlaxoSmithKline,15
+Mebendazole,Tablet,Johnson Pharma,10
+Loperamide,Capsule,Abbott,10
+ORS Powder,Sachet,Electral,20
+Lactulose,Syrup,Abbott,10
+Digene,Tablet,Abbott,15
+Gelusil,Tablet,Pfizer,15
+Becosules,Capsule,Pfizer,15
+Evion 400,Capsule,Merck,10
+Neurobion Forte,Tablet,Procter Gamble,15
+Thyronorm,Tablet,Abbott,20
+Eltroxin,Tablet,GlaxoSmithKline,15
+Gliclazide,Tablet,Servier,15
+Glimepiride,Tablet,Sanofi,15
+Sitagliptin,Tablet,MSD,10
+Vildagliptin,Tablet,Novartis,10
+Empagliflozin,Tablet,Boehringer Ingelheim,10
+Insulin Glargine,Injection,Sanofi,10
+Salbutamol,Inhaler,Cipla,10
+Budesonide,Inhaler,AstraZeneca,10
+Formoterol,Inhaler,Cipla,10
+Montelukast Syrup,Syrup,Sun Pharma,10
+Ambroxol,Syrup,Abbott,15
+Ascoril,Syrup,Glenmark,10
+Benadryl,Syrup,Johnson Johnson,10
+Alex Syrup,Syrup,Glenmark,10
+Corex,Syrup,Pfizer,10
+Cough Syrup,Syrup,ABC Pharma,10
+Calpol,Syrup,GSK,15
+Meftal Spas,Tablet,Blue Cross,10
+Meftal P,Tablet,Blue Cross,10
+Cyclopam,Tablet,Indoco Remedies,10
+Drotaverine,Tablet,Abbott,10
+Tranexamic Acid,Tablet,USV Pharma,10
+Furosemide,Tablet,Sanofi,10
+Spironolactone,Tablet,RPG Life Sciences,10
+Hydrochlorothiazide,Tablet,Sun Pharma,10
+Tamsulosin,Capsule,Dr Reddys,10
+Finasteride,Tablet,Cipla,10
+Sildenafil,Tablet,Pfizer,5
+Clotrimazole,Cream,Canesten,10
+Betamethasone,Cream,GlaxoSmithKline,10
+Mupirocin,Ointment,Glenmark,10
+Silver Sulfadiazine,Cream,Sun Pharma,10
+Povidone Iodine,Solution,Win Medicare,10
+Calamine Lotion,Lotion,ABC Pharma,10
+Diclofenac Gel,Gel,Volini,10
+Lignocaine,Gel,AstraZeneca,10
+Miconazole,Cream,Johnson Johnson,10
+Ketoconazole,Shampoo,Sun Pharma,10

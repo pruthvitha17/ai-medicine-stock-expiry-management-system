@@ -1,0 +1,607 @@
+medicine_name,quantity_sold,sale_date
+Paracetamol,91,2026-01-05
+Paracetamol,24,2026-02-05
+Paracetamol,13,2026-03-05
+Paracetamol,45,2026-04-05
+Paracetamol,41,2026-05-05
+Paracetamol,38,2026-06-05
+Ibuprofen,27,2026-01-05
+Ibuprofen,23,2026-02-05
+Ibuprofen,96,2026-03-05
+Ibuprofen,79,2026-04-05
+Ibuprofen,21,2026-05-05
+Ibuprofen,85,2026-06-05
+Cetirizine,64,2026-01-05
+Cetirizine,14,2026-02-05
+Cetirizine,13,2026-03-05
+Cetirizine,21,2026-04-05
+Cetirizine,37,2026-05-05
+Cetirizine,39,2026-06-05
+Azithromycin,74,2026-01-05
+Azithromycin,87,2026-02-05
+Azithromycin,13,2026-03-05
+Azithromycin,81,2026-04-05
+Azithromycin,35,2026-05-05
+Azithromycin,93,2026-06-05
+Amoxicillin,99,2026-01-05
+Amoxicillin,79,2026-02-05
+Amoxicillin,63,2026-03-05
+Amoxicillin,38,2026-04-05
+Amoxicillin,67,2026-05-05
+Amoxicillin,85,2026-06-05
+Metformin,45,2026-01-05
+Metformin,10,2026-02-05
+Metformin,30,2026-03-05
+Metformin,99,2026-04-05
+Metformin,64,2026-05-05
+Metformin,53,2026-06-05
+Amlodipine,45,2026-01-05
+Amlodipine,29,2026-02-05
+Amlodipine,37,2026-03-05
+Amlodipine,53,2026-04-05
+Amlodipine,23,2026-05-05
+Amlodipine,21,2026-06-05
+Pantoprazole,58,2026-01-05
+Pantoprazole,22,2026-02-05
+Pantoprazole,55,2026-03-05
+Pantoprazole,54,2026-04-05
+Pantoprazole,87,2026-05-05
+Pantoprazole,43,2026-06-05
+Omeprazole,15,2026-01-05
+Omeprazole,68,2026-02-05
+Omeprazole,78,2026-03-05
+Omeprazole,25,2026-04-05
+Omeprazole,58,2026-05-05
+Omeprazole,20,2026-06-05
+Dolo 650,80,2026-01-05
+Dolo 650,47,2026-02-05
+Dolo 650,90,2026-03-05
+Dolo 650,89,2026-04-05
+Dolo 650,56,2026-05-05
+Dolo 650,83,2026-06-05
+Crocin,34,2026-01-05
+Crocin,100,2026-02-05
+Crocin,18,2026-03-05
+Crocin,15,2026-04-05
+Crocin,94,2026-05-05
+Crocin,39,2026-06-05
+Combiflam,47,2026-01-05
+Combiflam,20,2026-02-05
+Combiflam,39,2026-03-05
+Combiflam,22,2026-04-05
+Combiflam,58,2026-05-05
+Combiflam,45,2026-06-05
+Allegra,68,2026-01-05
+Allegra,91,2026-02-05
+Allegra,56,2026-03-05
+Allegra,30,2026-04-05
+Allegra,57,2026-05-05
+Allegra,55,2026-06-05
+Montelukast,36,2026-01-05
+Montelukast,95,2026-02-05
+Montelukast,44,2026-03-05
+Montelukast,99,2026-04-05
+Montelukast,97,2026-05-05
+Montelukast,92,2026-06-05
+Levocetirizine,19,2026-01-05
+Levocetirizine,87,2026-02-05
+Levocetirizine,91,2026-03-05
+Levocetirizine,31,2026-04-05
+Levocetirizine,78,2026-05-05
+Levocetirizine,41,2026-06-05
+Rabeprazole,30,2026-01-05
+Rabeprazole,69,2026-02-05
+Rabeprazole,58,2026-03-05
+Rabeprazole,44,2026-04-05
+Rabeprazole,91,2026-05-05
+Rabeprazole,98,2026-06-05
+Domperidone,81,2026-01-05
+Domperidone,38,2026-02-05
+Domperidone,97,2026-03-05
+Domperidone,51,2026-04-05
+Domperidone,17,2026-05-05
+Domperidone,39,2026-06-05
+Ondansetron,14,2026-01-05
+Ondansetron,50,2026-02-05
+Ondansetron,61,2026-03-05
+Ondansetron,44,2026-04-05
+Ondansetron,18,2026-05-05
+Ondansetron,37,2026-06-05
+Diclofenac,82,2026-01-05
+Diclofenac,50,2026-02-05
+Diclofenac,37,2026-03-05
+Diclofenac,93,2026-04-05
+Diclofenac,73,2026-05-05
+Diclofenac,60,2026-06-05
+Aceclofenac,92,2026-01-05
+Aceclofenac,68,2026-02-05
+Aceclofenac,28,2026-03-05
+Aceclofenac,43,2026-04-05
+Aceclofenac,27,2026-05-05
+Aceclofenac,41,2026-06-05
+Atorvastatin,81,2026-01-05
+Atorvastatin,78,2026-02-05
+Atorvastatin,43,2026-03-05
+Atorvastatin,84,2026-04-05
+Atorvastatin,64,2026-05-05
+Atorvastatin,84,2026-06-05
+Rosuvastatin,61,2026-01-05
+Rosuvastatin,56,2026-02-05
+Rosuvastatin,38,2026-03-05
+Rosuvastatin,27,2026-04-05
+Rosuvastatin,75,2026-05-05
+Rosuvastatin,73,2026-06-05
+Losartan,21,2026-01-05
+Losartan,16,2026-02-05
+Losartan,24,2026-03-05
+Losartan,29,2026-04-05
+Losartan,90,2026-05-05
+Losartan,30,2026-06-05
+Telmisartan,97,2026-01-05
+Telmisartan,64,2026-02-05
+Telmisartan,86,2026-03-05
+Telmisartan,18,2026-04-05
+Telmisartan,59,2026-05-05
+Telmisartan,58,2026-06-05
+Metoprolol,86,2026-01-05
+Metoprolol,69,2026-02-05
+Metoprolol,77,2026-03-05
+Metoprolol,42,2026-04-05
+Metoprolol,80,2026-05-05
+Metoprolol,11,2026-06-05
+Atenolol,97,2026-01-05
+Atenolol,24,2026-02-05
+Atenolol,97,2026-03-05
+Atenolol,78,2026-04-05
+Atenolol,44,2026-05-05
+Atenolol,92,2026-06-05
+Clopidogrel,53,2026-01-05
+Clopidogrel,24,2026-02-05
+Clopidogrel,47,2026-03-05
+Clopidogrel,65,2026-04-05
+Clopidogrel,30,2026-05-05
+Clopidogrel,68,2026-06-05
+Aspirin,10,2026-01-05
+Aspirin,43,2026-02-05
+Aspirin,74,2026-03-05
+Aspirin,32,2026-04-05
+Aspirin,74,2026-05-05
+Aspirin,23,2026-06-05
+Calcium Carbonate,90,2026-01-05
+Calcium Carbonate,48,2026-02-05
+Calcium Carbonate,91,2026-03-05
+Calcium Carbonate,74,2026-04-05
+Calcium Carbonate,87,2026-05-05
+Calcium Carbonate,35,2026-06-05
+Vitamin C,29,2026-01-05
+Vitamin C,57,2026-02-05
+Vitamin C,30,2026-03-05
+Vitamin C,79,2026-04-05
+Vitamin C,77,2026-05-05
+Vitamin C,10,2026-06-05
+Vitamin D3,86,2026-01-05
+Vitamin D3,51,2026-02-05
+Vitamin D3,72,2026-03-05
+Vitamin D3,12,2026-04-05
+Vitamin D3,24,2026-05-05
+Vitamin D3,56,2026-06-05
+Multivitamin,49,2026-01-05
+Multivitamin,40,2026-02-05
+Multivitamin,17,2026-03-05
+Multivitamin,40,2026-04-05
+Multivitamin,82,2026-05-05
+Multivitamin,20,2026-06-05
+Iron Folic Acid,20,2026-01-05
+Iron Folic Acid,72,2026-02-05
+Iron Folic Acid,18,2026-03-05
+Iron Folic Acid,78,2026-04-05
+Iron Folic Acid,26,2026-05-05
+Iron Folic Acid,26,2026-06-05
+Zinc Sulphate,94,2026-01-05
+Zinc Sulphate,70,2026-02-05
+Zinc Sulphate,80,2026-03-05
+Zinc Sulphate,31,2026-04-05
+Zinc Sulphate,43,2026-05-05
+Zinc Sulphate,77,2026-06-05
+B Complex,87,2026-01-05
+B Complex,64,2026-02-05
+B Complex,37,2026-03-05
+B Complex,79,2026-04-05
+B Complex,98,2026-05-05
+B Complex,35,2026-06-05
+Folic Acid,49,2026-01-05
+Folic Acid,61,2026-02-05
+Folic Acid,95,2026-03-05
+Folic Acid,93,2026-04-05
+Folic Acid,57,2026-05-05
+Folic Acid,66,2026-06-05
+Cholecalciferol,76,2026-01-05
+Cholecalciferol,67,2026-02-05
+Cholecalciferol,25,2026-03-05
+Cholecalciferol,41,2026-04-05
+Cholecalciferol,38,2026-05-05
+Cholecalciferol,18,2026-06-05
+Prednisolone,53,2026-01-05
+Prednisolone,12,2026-02-05
+Prednisolone,85,2026-03-05
+Prednisolone,80,2026-04-05
+Prednisolone,39,2026-05-05
+Prednisolone,85,2026-06-05
+Dexamethasone,38,2026-01-05
+Dexamethasone,10,2026-02-05
+Dexamethasone,19,2026-03-05
+Dexamethasone,100,2026-04-05
+Dexamethasone,90,2026-05-05
+Dexamethasone,17,2026-06-05
+Hydroxychloroquine,39,2026-01-05
+Hydroxychloroquine,18,2026-02-05
+Hydroxychloroquine,14,2026-03-05
+Hydroxychloroquine,52,2026-04-05
+Hydroxychloroquine,19,2026-05-05
+Hydroxychloroquine,75,2026-06-05
+Metronidazole,40,2026-01-05
+Metronidazole,45,2026-02-05
+Metronidazole,95,2026-03-05
+Metronidazole,72,2026-04-05
+Metronidazole,37,2026-05-05
+Metronidazole,79,2026-06-05
+Cefixime,26,2026-01-05
+Cefixime,83,2026-02-05
+Cefixime,83,2026-03-05
+Cefixime,70,2026-04-05
+Cefixime,41,2026-05-05
+Cefixime,70,2026-06-05
+Cefuroxime,62,2026-01-05
+Cefuroxime,34,2026-02-05
+Cefuroxime,22,2026-03-05
+Cefuroxime,22,2026-04-05
+Cefuroxime,94,2026-05-05
+Cefuroxime,65,2026-06-05
+Cefpodoxime,55,2026-01-05
+Cefpodoxime,64,2026-02-05
+Cefpodoxime,62,2026-03-05
+Cefpodoxime,69,2026-04-05
+Cefpodoxime,16,2026-05-05
+Cefpodoxime,96,2026-06-05
+Doxycycline,93,2026-01-05
+Doxycycline,92,2026-02-05
+Doxycycline,22,2026-03-05
+Doxycycline,17,2026-04-05
+Doxycycline,61,2026-05-05
+Doxycycline,53,2026-06-05
+Clarithromycin,23,2026-01-05
+Clarithromycin,41,2026-02-05
+Clarithromycin,34,2026-03-05
+Clarithromycin,34,2026-04-05
+Clarithromycin,78,2026-05-05
+Clarithromycin,67,2026-06-05
+Levofloxacin,27,2026-01-05
+Levofloxacin,64,2026-02-05
+Levofloxacin,33,2026-03-05
+Levofloxacin,45,2026-04-05
+Levofloxacin,69,2026-05-05
+Levofloxacin,41,2026-06-05
+Ciprofloxacin,19,2026-01-05
+Ciprofloxacin,66,2026-02-05
+Ciprofloxacin,80,2026-03-05
+Ciprofloxacin,22,2026-04-05
+Ciprofloxacin,16,2026-05-05
+Ciprofloxacin,93,2026-06-05
+Nitrofurantoin,79,2026-01-05
+Nitrofurantoin,11,2026-02-05
+Nitrofurantoin,21,2026-03-05
+Nitrofurantoin,40,2026-04-05
+Nitrofurantoin,31,2026-05-05
+Nitrofurantoin,62,2026-06-05
+Fluconazole,72,2026-01-05
+Fluconazole,71,2026-02-05
+Fluconazole,37,2026-03-05
+Fluconazole,61,2026-04-05
+Fluconazole,17,2026-05-05
+Fluconazole,31,2026-06-05
+Acyclovir,58,2026-01-05
+Acyclovir,10,2026-02-05
+Acyclovir,59,2026-03-05
+Acyclovir,43,2026-04-05
+Acyclovir,68,2026-05-05
+Acyclovir,46,2026-06-05
+Albendazole,64,2026-01-05
+Albendazole,99,2026-02-05
+Albendazole,81,2026-03-05
+Albendazole,94,2026-04-05
+Albendazole,72,2026-05-05
+Albendazole,29,2026-06-05
+Mebendazole,34,2026-01-05
+Mebendazole,47,2026-02-05
+Mebendazole,37,2026-03-05
+Mebendazole,17,2026-04-05
+Mebendazole,84,2026-05-05
+Mebendazole,79,2026-06-05
+Loperamide,17,2026-01-05
+Loperamide,50,2026-02-05
+Loperamide,17,2026-03-05
+Loperamide,16,2026-04-05
+Loperamide,84,2026-05-05
+Loperamide,71,2026-06-05
+ORS Powder,74,2026-01-05
+ORS Powder,77,2026-02-05
+ORS Powder,30,2026-03-05
+ORS Powder,17,2026-04-05
+ORS Powder,75,2026-05-05
+ORS Powder,20,2026-06-05
+Lactulose,33,2026-01-05
+Lactulose,18,2026-02-05
+Lactulose,86,2026-03-05
+Lactulose,18,2026-04-05
+Lactulose,96,2026-05-05
+Lactulose,40,2026-06-05
+Digene,61,2026-01-05
+Digene,25,2026-02-05
+Digene,82,2026-03-05
+Digene,41,2026-04-05
+Digene,84,2026-05-05
+Digene,86,2026-06-05
+Gelusil,15,2026-01-05
+Gelusil,89,2026-02-05
+Gelusil,20,2026-03-05
+Gelusil,63,2026-04-05
+Gelusil,94,2026-05-05
+Gelusil,84,2026-06-05
+Becosules,82,2026-01-05
+Becosules,76,2026-02-05
+Becosules,50,2026-03-05
+Becosules,43,2026-04-05
+Becosules,36,2026-05-05
+Becosules,95,2026-06-05
+Evion 400,50,2026-01-05
+Evion 400,40,2026-02-05
+Evion 400,43,2026-03-05
+Evion 400,60,2026-04-05
+Evion 400,26,2026-05-05
+Evion 400,95,2026-06-05
+Neurobion Forte,92,2026-01-05
+Neurobion Forte,48,2026-02-05
+Neurobion Forte,68,2026-03-05
+Neurobion Forte,50,2026-04-05
+Neurobion Forte,19,2026-05-05
+Neurobion Forte,11,2026-06-05
+Thyronorm,68,2026-01-05
+Thyronorm,89,2026-02-05
+Thyronorm,82,2026-03-05
+Thyronorm,22,2026-04-05
+Thyronorm,19,2026-05-05
+Thyronorm,78,2026-06-05
+Eltroxin,37,2026-01-05
+Eltroxin,74,2026-02-05
+Eltroxin,43,2026-03-05
+Eltroxin,26,2026-04-05
+Eltroxin,54,2026-05-05
+Eltroxin,18,2026-06-05
+Gliclazide,41,2026-01-05
+Gliclazide,57,2026-02-05
+Gliclazide,46,2026-03-05
+Gliclazide,30,2026-04-05
+Gliclazide,66,2026-05-05
+Gliclazide,79,2026-06-05
+Glimepiride,100,2026-01-05
+Glimepiride,48,2026-02-05
+Glimepiride,88,2026-03-05
+Glimepiride,93,2026-04-05
+Glimepiride,77,2026-05-05
+Glimepiride,11,2026-06-05
+Sitagliptin,95,2026-01-05
+Sitagliptin,80,2026-02-05
+Sitagliptin,48,2026-03-05
+Sitagliptin,94,2026-04-05
+Sitagliptin,23,2026-05-05
+Sitagliptin,27,2026-06-05
+Vildagliptin,43,2026-01-05
+Vildagliptin,24,2026-02-05
+Vildagliptin,23,2026-03-05
+Vildagliptin,80,2026-04-05
+Vildagliptin,29,2026-05-05
+Vildagliptin,44,2026-06-05
+Empagliflozin,46,2026-01-05
+Empagliflozin,87,2026-02-05
+Empagliflozin,36,2026-03-05
+Empagliflozin,53,2026-04-05
+Empagliflozin,36,2026-05-05
+Empagliflozin,97,2026-06-05
+Insulin Glargine,91,2026-01-05
+Insulin Glargine,43,2026-02-05
+Insulin Glargine,74,2026-03-05
+Insulin Glargine,72,2026-04-05
+Insulin Glargine,42,2026-05-05
+Insulin Glargine,16,2026-06-05
+Salbutamol,21,2026-01-05
+Salbutamol,91,2026-02-05
+Salbutamol,64,2026-03-05
+Salbutamol,45,2026-04-05
+Salbutamol,15,2026-05-05
+Salbutamol,10,2026-06-05
+Budesonide,52,2026-01-05
+Budesonide,26,2026-02-05
+Budesonide,91,2026-03-05
+Budesonide,43,2026-04-05
+Budesonide,30,2026-05-05
+Budesonide,66,2026-06-05
+Formoterol,80,2026-01-05
+Formoterol,100,2026-02-05
+Formoterol,64,2026-03-05
+Formoterol,81,2026-04-05
+Formoterol,11,2026-05-05
+Formoterol,24,2026-06-05
+Montelukast Syrup,19,2026-01-05
+Montelukast Syrup,98,2026-02-05
+Montelukast Syrup,29,2026-03-05
+Montelukast Syrup,79,2026-04-05
+Montelukast Syrup,14,2026-05-05
+Montelukast Syrup,57,2026-06-05
+Ambroxol,84,2026-01-05
+Ambroxol,80,2026-02-05
+Ambroxol,28,2026-03-05
+Ambroxol,65,2026-04-05
+Ambroxol,26,2026-05-05
+Ambroxol,15,2026-06-05
+Ascoril,49,2026-01-05
+Ascoril,56,2026-02-05
+Ascoril,15,2026-03-05
+Ascoril,55,2026-04-05
+Ascoril,36,2026-05-05
+Ascoril,97,2026-06-05
+Benadryl,41,2026-01-05
+Benadryl,95,2026-02-05
+Benadryl,23,2026-03-05
+Benadryl,55,2026-04-05
+Benadryl,81,2026-05-05
+Benadryl,62,2026-06-05
+Alex Syrup,89,2026-01-05
+Alex Syrup,29,2026-02-05
+Alex Syrup,40,2026-03-05
+Alex Syrup,30,2026-04-05
+Alex Syrup,32,2026-05-05
+Alex Syrup,62,2026-06-05
+Corex,13,2026-01-05
+Corex,32,2026-02-05
+Corex,52,2026-03-05
+Corex,62,2026-04-05
+Corex,95,2026-05-05
+Corex,41,2026-06-05
+Cough Syrup,44,2026-01-05
+Cough Syrup,30,2026-02-05
+Cough Syrup,99,2026-03-05
+Cough Syrup,23,2026-04-05
+Cough Syrup,58,2026-05-05
+Cough Syrup,14,2026-06-05
+Calpol,70,2026-01-05
+Calpol,38,2026-02-05
+Calpol,35,2026-03-05
+Calpol,68,2026-04-05
+Calpol,54,2026-05-05
+Calpol,49,2026-06-05
+Meftal Spas,39,2026-01-05
+Meftal Spas,38,2026-02-05
+Meftal Spas,13,2026-03-05
+Meftal Spas,94,2026-04-05
+Meftal Spas,34,2026-05-05
+Meftal Spas,61,2026-06-05
+Meftal P,52,2026-01-05
+Meftal P,45,2026-02-05
+Meftal P,18,2026-03-05
+Meftal P,45,2026-04-05
+Meftal P,54,2026-05-05
+Meftal P,92,2026-06-05
+Cyclopam,75,2026-01-05
+Cyclopam,61,2026-02-05
+Cyclopam,96,2026-03-05
+Cyclopam,78,2026-04-05
+Cyclopam,52,2026-05-05
+Cyclopam,13,2026-06-05
+Drotaverine,24,2026-01-05
+Drotaverine,43,2026-02-05
+Drotaverine,32,2026-03-05
+Drotaverine,84,2026-04-05
+Drotaverine,43,2026-05-05
+Drotaverine,14,2026-06-05
+Tranexamic Acid,23,2026-01-05
+Tranexamic Acid,86,2026-02-05
+Tranexamic Acid,65,2026-03-05
+Tranexamic Acid,54,2026-04-05
+Tranexamic Acid,50,2026-05-05
+Tranexamic Acid,65,2026-06-05
+Furosemide,87,2026-01-05
+Furosemide,75,2026-02-05
+Furosemide,24,2026-03-05
+Furosemide,59,2026-04-05
+Furosemide,83,2026-05-05
+Furosemide,34,2026-06-05
+Spironolactone,42,2026-01-05
+Spironolactone,15,2026-02-05
+Spironolactone,100,2026-03-05
+Spironolactone,65,2026-04-05
+Spironolactone,10,2026-05-05
+Spironolactone,76,2026-06-05
+Hydrochlorothiazide,78,2026-01-05
+Hydrochlorothiazide,97,2026-02-05
+Hydrochlorothiazide,95,2026-03-05
+Hydrochlorothiazide,35,2026-04-05
+Hydrochlorothiazide,56,2026-05-05
+Hydrochlorothiazide,65,2026-06-05
+Tamsulosin,18,2026-01-05
+Tamsulosin,95,2026-02-05
+Tamsulosin,52,2026-03-05
+Tamsulosin,89,2026-04-05
+Tamsulosin,50,2026-05-05
+Tamsulosin,94,2026-06-05
+Finasteride,25,2026-01-05
+Finasteride,48,2026-02-05
+Finasteride,74,2026-03-05
+Finasteride,49,2026-04-05
+Finasteride,95,2026-05-05
+Finasteride,62,2026-06-05
+Sildenafil,51,2026-01-05
+Sildenafil,61,2026-02-05
+Sildenafil,99,2026-03-05
+Sildenafil,47,2026-04-05
+Sildenafil,80,2026-05-05
+Sildenafil,26,2026-06-05
+Clotrimazole,34,2026-01-05
+Clotrimazole,63,2026-02-05
+Clotrimazole,95,2026-03-05
+Clotrimazole,58,2026-04-05
+Clotrimazole,96,2026-05-05
+Clotrimazole,32,2026-06-05
+Betamethasone,88,2026-01-05
+Betamethasone,82,2026-02-05
+Betamethasone,48,2026-03-05
+Betamethasone,61,2026-04-05
+Betamethasone,80,2026-05-05
+Betamethasone,10,2026-06-05
+Mupirocin,48,2026-01-05
+Mupirocin,46,2026-02-05
+Mupirocin,36,2026-03-05
+Mupirocin,65,2026-04-05
+Mupirocin,84,2026-05-05
+Mupirocin,87,2026-06-05
+Silver Sulfadiazine,93,2026-01-05
+Silver Sulfadiazine,51,2026-02-05
+Silver Sulfadiazine,69,2026-03-05
+Silver Sulfadiazine,66,2026-04-05
+Silver Sulfadiazine,66,2026-05-05
+Silver Sulfadiazine,96,2026-06-05
+Povidone Iodine,37,2026-01-05
+Povidone Iodine,75,2026-02-05
+Povidone Iodine,70,2026-03-05
+Povidone Iodine,31,2026-04-05
+Povidone Iodine,94,2026-05-05
+Povidone Iodine,20,2026-06-05
+Calamine Lotion,46,2026-01-05
+Calamine Lotion,75,2026-02-05
+Calamine Lotion,94,2026-03-05
+Calamine Lotion,91,2026-04-05
+Calamine Lotion,89,2026-05-05
+Calamine Lotion,52,2026-06-05
+Diclofenac Gel,21,2026-01-05
+Diclofenac Gel,40,2026-02-05
+Diclofenac Gel,96,2026-03-05
+Diclofenac Gel,49,2026-04-05
+Diclofenac Gel,38,2026-05-05
+Diclofenac Gel,35,2026-06-05
+Lignocaine,28,2026-01-05
+Lignocaine,13,2026-02-05
+Lignocaine,15,2026-03-05
+Lignocaine,41,2026-04-05
+Lignocaine,70,2026-05-05
+Lignocaine,88,2026-06-05
+Miconazole,19,2026-01-05
+Miconazole,68,2026-02-05
+Miconazole,63,2026-03-05
+Miconazole,90,2026-04-05
+Miconazole,83,2026-05-05
+Miconazole,34,2026-06-05
+Ketoconazole,99,2026-01-05
+Ketoconazole,59,2026-02-05
+Ketoconazole,73,2026-03-05
+Ketoconazole,61,2026-04-05
+Ketoconazole,41,2026-05-05
+Ketoconazole,28,2026-06-05
