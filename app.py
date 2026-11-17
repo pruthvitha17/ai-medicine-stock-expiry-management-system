@@ -8,7 +8,7 @@ from pathlib import Path
 from qr_barcode import show_qr_barcode
 from sales_management import record_sale, get_sales_history
 from auth import login_screen
-
+from database import create_tables
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(
     page_title="AI-Based Medicine Stock and Expiry Management System",
@@ -21,6 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent
 DB_NAME = BASE_DIR / "medicine_inventory.db"
 SALES_FILE = BASE_DIR / "dataset" / "medicine_sales.csv"
 
+create_tables() 
 # ---------------- LOGIN ----------------
 if not st.session_state.get("logged_in", False):
     login_screen(DB_NAME)

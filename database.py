@@ -1,15 +1,25 @@
 
 import sqlite3
+from pathlib import Path
 
-DB_NAME = "medicine_inventory.db"
+# Project folder
+BASE_DIR = Path(__file__).resolve().parent
+
+# Database location
+DB_NAME = BASE_DIR / "medicine_inventory.db"
+
 
 def get_connection():
-    return sqlite3.connect(DB_NAME)
+    conn = sqlite3.connect(str(DB_NAME))
+    conn.execute("PRAGMA foreign_keys = ON")
+    return conn
+
 
 def create_tables():
     conn = get_connection()
     cursor = conn.cursor()
 
+    # Medicines table
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS medicines (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -20,6 +30,7 @@ def create_tables():
         )
     """)
 
+    # Batches table
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS batches (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -34,6 +45,7 @@ def create_tables():
         )
     """)
 
+    # Sales table
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS sales (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -46,6 +58,7 @@ def create_tables():
 
     conn.commit()
     conn.close()
+
 
 if __name__ == "__main__":
     create_tables()
