@@ -295,8 +295,8 @@ def run_all_ml_models():
         errors["Anomaly detection"] = str(e)
 
     try:
-        from ml_stockout_model import predict_stockout
-        stockout_df, accuracy = predict_stockout()
+        from ml_stockout_model import predict_stockout_risk
+        stockout_df, accuracy = predict_stockout_risk()
         results["stockout"] = {
             "data": stockout_df,
             "accuracy": accuracy
